@@ -1,0 +1,6 @@
+#!/bin/bash
+cd /home/creat/Workspace/CS_SDK/TARGET
+source build/envsetup.sh
+lunch 26
+cd vendor/qcom/proprietary/vnw/UM_Link_Service
+mm
